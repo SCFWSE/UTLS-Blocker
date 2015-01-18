@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Please note this profile ONLY can remove by Remover.
+(See Github for more information)</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>utls.b.restrictions1</string>
+			<key>PayloadOrganization</key>
+			<string>@SCFWSE</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>83ACEF06-9040-49CE-A376-158A32538785</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowUntrustedTLSPrompt</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>See Github for more infomation.
+Twitter:@SCFWSE</string>
+	<key>PayloadDisplayName</key>
+	<string>UTLS Blocker</string>
+	<key>PayloadIdentifier</key>
+	<string>utls.b</string>
+	<key>PayloadOrganization</key>
+	<string>@SCFWSE</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>39B9BFB7-D7BD-42BE-8C67-03AA0086FCD2</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
