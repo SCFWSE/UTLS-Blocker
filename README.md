@@ -1,7 +1,7 @@
 # UTLS-Blocker
 下载地址
 ---
-普通：
+普通：https://goo.gl/fihkNE<br/>
 高级：
 撤销：
 直接点击连接即可下载，务必使用iOS自带的Safari浏览器<br/>
