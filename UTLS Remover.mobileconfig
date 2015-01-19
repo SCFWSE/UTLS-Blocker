@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>DurationUntilRemoval</key>
+	<real>86400</real>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -10,23 +12,19 @@
 			<key>PayloadDisplayName</key>
 			<string>Restrictions</string>
 			<key>PayloadIdentifier</key>
-			<string>sp.twh.gov.restrictions1</string>
+			<string>utls.b.restrictions1</string>
 			<key>PayloadOrganization</key>
-			<string>The White House</string>
+			<string>@SCFWSE</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>83ACEF06-9040-49CE-A376-158A32538785</string>
+			<string>DD513FF5-44B0-4AF3-A53D-4B42C1A9A080</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>allowUntrusted Prompt</key>
-			<false/>
+			<key>allowUntrustedTLSPrompt</key>
+			<true/>
 		</dict>
 	</array>
-	<key>DurationUntilRemoval</key>
-	<real>86400</real>
-	<key>PayloadContent</key>
-	<array/>
 	<key>PayloadDescription</key>
 	<string>See Github for more infomation.
 Twitter:@SCFWSE</string>
