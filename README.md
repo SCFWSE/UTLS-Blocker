@@ -2,9 +2,9 @@
 **请一定阅读完全文后再继续操作**
 下载地址
 ---
-普通：https://goo.gl/fihkNE<br/>
-高级：https://goo.gl/VLXy6d<br/>
-撤销：https://goo.gl/fzMYkb<br/>
+普通：[UTLS Blocker.mobileconfig](https://raw.githubusercontent.com/SCFWSE/UTLS-Blocker/master/UTLS%20Blocker.mobileconfig)<br/>
+高级：[UTLS Blocker-P.mobileconfig](https://raw.githubusercontent.com/SCFWSE/UTLS-Blocker/master/UTLS%20Blocker-P.mobileconfig)<br/>
+撤销：[UTLS Remover.mobileconfig](https://raw.githubusercontent.com/SCFWSE/UTLS-Blocker/master/UTLS%20Remover.mobileconfig)<br/>
 直接点击连接即可下载，**务必使用iOS自带的Safari浏览器**<br/>
 如果你不明白这三者之间的区别，请下载普通<br/>
 简介
