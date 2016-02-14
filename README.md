@@ -10,7 +10,7 @@
 简介
 --
 UTLS-Blocker是一个描述文件，用来打开iOS“阻止不信任的TLS连接”功能，这个功能打开后将阻止访问**任何使用非[Apple受信任证书](https://support.apple.com/zh-cn/HT5012)签名的网站（比如12306）**<br/>
-在最近一次的证书列表更新中，Apple移除了CNNIC的证书，在访问使用CNNIC签署的网站如[Azure中国](http://www.windowsazure.cn)时，iOS也会直接拒绝<br/>
+在最近一次的证书列表更新中，Apple移除了CNNIC的证书，在访问使用CNNIC签署的网站如[Azure中国](https://www.windowsazure.cn)时，iOS也会直接拒绝<br/>
 同时，这可以避免MITM中间人攻击，并有效地避免由GFW DNS污染所造成iOS经常询问是否信任证书（直接拒绝并提示）。
 使用教程
 ---
